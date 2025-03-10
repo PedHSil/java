@@ -47,5 +47,9 @@ public class HelloWorld {
         result = 8 % 2; // result is now 0
 
         System.out.println(result); // 0
+
+        //Private
+        //Public
+        //Protcted
     }
 }
