@@ -16,7 +16,6 @@ public class Program {
 //Olá, mundo!  // (Os dois primeiros prints ficam na mesma linha)
 
 //Olá, mundo!  // (println move para a próxima linha)
-//Tudo bem?
 
 /*public class Exemplo {
     public static void main(String[] args) {
