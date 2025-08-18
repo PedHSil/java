@@ -1,3 +1,4 @@
+
 public class Comandos {
     public static void main(String[] args) {
         System.out.println(calculaEstoqueMedio(0, 0));
